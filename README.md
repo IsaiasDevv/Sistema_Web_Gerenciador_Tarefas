@@ -1,3 +1,19 @@
+### **⚙️ Layout Completo Sistema Web Gerenciador Tarefas** 
+<img width="11148" height="2786" alt="Image" src="https://github.com/user-attachments/assets/19ca9ac7-6aea-4fc3-8cb9-47981a9df2fc" />
+
+
+### **💻 Gerenciamento de Projeto Utilizando a Metodologia Kaban Pelo Software Trello**
+
+<img width="1366" height="682" alt="Image" src="https://github.com/user-attachments/assets/31b90da7-a963-47d7-9728-d62ed8c54e4e" />
+<img width="1366" height="682" alt="Image" src="https://github.com/user-attachments/assets/2fdb7f96-3d7f-460a-94e0-820ff7fb83ef" />
+<img width="1366" height="685" alt="Image" src="https://github.com/user-attachments/assets/44d18b69-b080-421d-b661-ecc236e7bd9d" />
+
+### **🖥️ Organização das Pastas Pelo Editor de Código VS Code**
+
+<img width="896" height="1576" alt="Image" src="https://github.com/user-attachments/assets/42eda80a-3abe-4134-bca5-5f69ded0a875" />
+
+
+
 <h1 align="center">
 🚀 Sistema Gerenciador de Tarefas
 </h1>
